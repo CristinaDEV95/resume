@@ -13,4 +13,4 @@ This repository contains my CV in HTML and PDF formats.
 ## 📬 Contacto / Contact
 ✉️ Email: cristina.pacheco.dev@gmail.com  
 🔗 LinkedIn: linkedin.com/in/cristina-pacheco-alvarado  
-💻 GitHub: github.com/CristinaDEV95
+💻 GitHub: github.com/CristinaDEV95 
